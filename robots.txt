@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mapo.8222quick.com/sitemap.xml
+
+
+
